@@ -1,0 +1,20 @@
+.completed{
+  text-decoration: line-through;
+  list-style-type: none;
+  color:rgb(247, 0, 255);
+}
+.fstyle{
+  margin:1em;
+  display:flex;
+  justify-content: center;
+}
+
+li{
+  margin:20px;
+  display: flex;
+  justify-content: center;
+  float: left;
+}
+li > button{
+  margin-left:0.8em;
+}
